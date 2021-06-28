@@ -13,14 +13,26 @@ There are lots of example files in this repo. Feel free to change or remove them
 
 ## Useful links to get started! 
 👀 See a preview of the website:
+
 https://lil-p3tri3.github.io/mlh-bootstrap-starter-kit/
 
+<br />
+
 💻 Check out Bootstrap's documentation:
+
 https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
+<br />
+
 🎉 Intro to HTML:
+
 https://www.w3schools.com/html/
 
-👩‍💻 Want to build this starter kit from scratch?
+<br />
+
+👩‍💻 Want to build this starter kit from scratch? 
+
 Check out the MLH INIT recording:
+
+
 https://www.youtube.com/watch?v=anH1gf7mnZ0
