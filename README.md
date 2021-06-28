@@ -18,5 +18,6 @@ There are lots of example files in this repo. Feel free to change or remove them
 
 🎉 Intro to HTML: https://www.w3schools.com/html/
 
-👩‍💻 Want to build this starter kit from scratch? Check out the MLH INIT recording: 
+👩‍💻 Want to build this starter kit from scratch? 
+Check out the MLH INIT recording: 
 https://www.youtube.com/watch?v=anH1gf7mnZ0
