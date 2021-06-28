@@ -12,11 +12,14 @@ VS Code and Atom.
 There are lots of example files in this repo. Feel free to change or remove them!
 
 ## Useful links to get started! 
-👀 See a preview of the website: https://lil-p3tri3.github.io/mlh-bootstrap-starter-kit/
+👀 See a preview of the website: 
+https://lil-p3tri3.github.io/mlh-bootstrap-starter-kit/
 
-💻 Check out Bootstrap's documentation: https://getbootstrap.com/docs/5.0/getting-started/introduction/
+💻 Check out Bootstrap's documentation: 
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
-🎉 Intro to HTML: https://www.w3schools.com/html/
+🎉 Intro to HTML: 
+https://www.w3schools.com/html/
 
 👩‍💻 Want to build this starter kit from scratch? 
 Check out the MLH INIT recording: 
