@@ -1,5 +1,6 @@
 # MLH INIT Bootstrap Starter Pack 
-This is a simple starter kit using Bootstrap to create a website - Part of MLH INIT 2022
+This is a simple starter kit using Bootstrap to create a website - Part of MLH INIT 2022.
+(Created alongside Jacklyn's livestream at INIT)
 You can clone it and it will give you a basic Bootstrap project that you can then use for a hackathon.
 Feel free to edit it as you need!
 
