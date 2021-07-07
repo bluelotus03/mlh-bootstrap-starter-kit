@@ -15,7 +15,7 @@ There are lots of example files in this repo. Feel free to change or remove them
 ## Useful links to get started! 
 👀 See a preview of the website:
 
-https://lil-p3tri3.github.io/mlh-bootstrap-starter-kit/
+https://bluelotus03.github.io/mlh-bootstrap-starter-kit/
 
 <br />
 
